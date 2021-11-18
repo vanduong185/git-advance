@@ -1,2 +1,2 @@
 feature a
-feature b, b1
+feature b
