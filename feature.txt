@@ -3,4 +3,9 @@ feature b
 feature c
 feature f
 feature e
-feature d. d1
+feature d. d1 d2
+feature g, g1
+feature g2
+feature g3
+feature h
+feature i
