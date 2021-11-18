@@ -3,4 +3,4 @@ sinh nam 1998
 thich da bong, am nhac, phim marvel
 gioi tinh nam, thich nu
 ngon ngu tieng Viet, tieng Anh
-project NACO, CW, ABC
+project NACO, CW, ABC, DEF, GHI
