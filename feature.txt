@@ -1,3 +1,6 @@
 feature a
 feature b
 feature c
+feature f
+feature e
+feature d. d1
